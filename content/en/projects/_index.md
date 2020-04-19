@@ -3,4 +3,4 @@ title: "Projects"
 weight: 10
 ---
 
-Here is some introduction text for my projects. You can set this text in the `/projects/_index.md` file. This page uses the `/layouts/projects/list.html` template.
+I blend strategies with current trends to create an authentic digital experience that helps you grow your brand and connect with your ideal audience. This page include some of my projects, if you want to see more or have any questions, please contact me. 
