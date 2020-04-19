@@ -3,7 +3,7 @@ title: "Education"
 weight: 30
 ---
 
-##### Kyiv National University of Economic
+##### Kyiv National University of Economics
 *BSBa*, 
 International Economics and Management 
 Kyiv, Ukraine
