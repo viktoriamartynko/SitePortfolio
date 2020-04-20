@@ -92,9 +92,9 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Portfolio - Viktoria Martynko"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
+            description  = "Work Portfolio, Digital Marketing"   # Max 160 characters show in search results
              footerText   = "Made by Viktoria Martynko"                      # Text to override default footer text (markdown allowed)
 
     [languages.es]
